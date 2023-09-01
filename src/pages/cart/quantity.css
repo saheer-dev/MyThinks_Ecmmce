@@ -1,0 +1,27 @@
+.counter{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 140px;
+    height: 30px;
+    /* border: 1px solid; */
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    padding: 2px;
+    width: 45px;
+    height: 25px;
+}
+.dis{
+    font-size: 23px;
+}
+.qunty{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 418px;
+    height: 77px;
+    gap: 97px;
+}

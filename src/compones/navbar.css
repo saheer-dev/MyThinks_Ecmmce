@@ -1,0 +1,29 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: rgb(10, 9, 9);
+    box-sizing: border-box;
+    width: 99vw;
+    height: 50px;
+    padding:40px ;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 10px;
+}
+.shop{
+    font-size: 22px;
+    text-decoration: none;
+    color: white;
+}
+.links{
+    width: 80vw;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
